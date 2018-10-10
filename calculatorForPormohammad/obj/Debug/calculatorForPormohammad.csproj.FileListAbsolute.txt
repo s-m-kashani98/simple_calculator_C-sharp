@@ -1,0 +1,9 @@
+c:\users\mohammad\documents\visual studio 2015\Projects\calculatorForPormohammad\calculatorForPormohammad\bin\Debug\calculatorForPormohammad.exe.config
+c:\users\mohammad\documents\visual studio 2015\Projects\calculatorForPormohammad\calculatorForPormohammad\bin\Debug\calculatorForPormohammad.exe
+c:\users\mohammad\documents\visual studio 2015\Projects\calculatorForPormohammad\calculatorForPormohammad\bin\Debug\calculatorForPormohammad.pdb
+c:\users\mohammad\documents\visual studio 2015\Projects\calculatorForPormohammad\calculatorForPormohammad\obj\Debug\calculatorForPormohammad.csprojResolveAssemblyReference.cache
+c:\users\mohammad\documents\visual studio 2015\Projects\calculatorForPormohammad\calculatorForPormohammad\obj\Debug\calculatorForPormohammad.Form1.resources
+c:\users\mohammad\documents\visual studio 2015\Projects\calculatorForPormohammad\calculatorForPormohammad\obj\Debug\calculatorForPormohammad.Properties.Resources.resources
+c:\users\mohammad\documents\visual studio 2015\Projects\calculatorForPormohammad\calculatorForPormohammad\obj\Debug\calculatorForPormohammad.csproj.GenerateResource.Cache
+c:\users\mohammad\documents\visual studio 2015\Projects\calculatorForPormohammad\calculatorForPormohammad\obj\Debug\calculatorForPormohammad.exe
+c:\users\mohammad\documents\visual studio 2015\Projects\calculatorForPormohammad\calculatorForPormohammad\obj\Debug\calculatorForPormohammad.pdb
